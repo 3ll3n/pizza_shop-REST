@@ -1,0 +1,62 @@
+body {
+  font-family: Courier New;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: green;
+}
+
+nav ul {
+  width: 25%;
+  height: 100px;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  border: 5px solid green;
+  margin: 5px 0 5px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.order_details {
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.pizza_orders {
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.order_pizza {
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.edit_pizza_order {
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.order_successful {
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+
